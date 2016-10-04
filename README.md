@@ -12,8 +12,11 @@ A simple web app using DotNetCore -This was created on and runs on a MAC!
 
 brew update
 brew install openssl
+
 ln -s /usr/local/opt/openssl/lib/libcrypto.1.0.0.dylib /usr/local/lib/
+
 ln -s /usr/local/opt/openssl/lib/libssl.1.0.0.dylib /usr/local/lib/
+
 
 3.) install dotnetcore sdk
 [source: https://go.microsoft.com/fwlink/?LinkID=827526]
