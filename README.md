@@ -30,7 +30,7 @@ git clone https://github.com/jfideler/dotnet-seed.git <folder-name>
 
 cd <folder-name>
 
-dotnet new (may not be necessary)
+dotnet new (sort of like 'npm init' - may not be necessary)
 
 dotnet restore  (sort of like 'npm install')
 
